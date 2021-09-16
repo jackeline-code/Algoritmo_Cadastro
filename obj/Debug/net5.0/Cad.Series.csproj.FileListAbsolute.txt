@@ -1,0 +1,16 @@
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\bin\Debug\net5.0\Cad.Series.exe
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\bin\Debug\net5.0\Cad.Series.deps.json
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\bin\Debug\net5.0\Cad.Series.runtimeconfig.json
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\bin\Debug\net5.0\Cad.Series.runtimeconfig.dev.json
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\bin\Debug\net5.0\Cad.Series.dll
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\bin\Debug\net5.0\ref\Cad.Series.dll
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\bin\Debug\net5.0\Cad.Series.pdb
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\obj\Debug\net5.0\Cad.Series.csproj.AssemblyReference.cache
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\obj\Debug\net5.0\Cad.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\obj\Debug\net5.0\Cad.Series.AssemblyInfoInputs.cache
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\obj\Debug\net5.0\Cad.Series.AssemblyInfo.cs
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\obj\Debug\net5.0\Cad.Series.csproj.CoreCompileInputs.cache
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\obj\Debug\net5.0\Cad.Series.dll
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\obj\Debug\net5.0\ref\Cad.Series.dll
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\obj\Debug\net5.0\Cad.Series.pdb
+C:\Users\jacke\Documents\Curso C#\Primeiro desafio\Cad.Series\obj\Debug\net5.0\Cad.Series.genruntimeconfig.cache
